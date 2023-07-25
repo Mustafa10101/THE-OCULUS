@@ -46,5 +46,5 @@
 # Инструкция по запуску
 ## Склонируйте репозиторий на ваш компьютер с помощью команды:
 ```html
-git clone [URL репозитория]
+git clone [git@github.com:Mustafa10101/THE-OCULUS.git]
 ```
